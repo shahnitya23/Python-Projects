@@ -1,4 +1,5 @@
 # My Portfolio Site!
+### Link to my Portfolio: http://nityas.pythonanywhere.com/ 
 
 ## Problem:
 
@@ -10,5 +11,3 @@ sometimes does not do it justice. Plus, there aren’t even any pictures to show
 
 To resolve this issue, I decided to create my portfolio web application using Python and Flask. I was able to present myself in a better format, and organize 
 my clubs, projects, and experiences in a better way. I also added pictures and links to help with this! 
-
-### Link to my Portfolio: http://nityas.pythonanywhere.com/ 
