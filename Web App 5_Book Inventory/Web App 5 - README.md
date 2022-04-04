@@ -1,4 +1,4 @@
-# Book Tacker Inventory Management
+# Book Tracker Inventory Management
 
 A way to keep track of the books you read or the books you want to read in the future.
 
